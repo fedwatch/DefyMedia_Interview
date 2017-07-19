@@ -1,0 +1,16 @@
+{
+  "name": "defymedia-interview",
+  "version": "1.0.0",
+  "description": "Fed Jiang DefyMedia Interview example",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "author": "Fed Jiang",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "http-server": "^0.10.0",
+    "jquery": "^3.2.1"
+  }
+}
